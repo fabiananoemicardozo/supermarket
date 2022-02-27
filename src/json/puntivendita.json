@@ -1,0 +1,16 @@
+[{
+    "code": "1",   
+    "description": "Store numero 1",   
+    "address": "Via Roma, 145",  
+    "lat": "40.885765",
+    "long": "-2.545442",  
+    "opening_hours": "7:00-13:00/14:00-21:00"
+    }, {    
+    "code": "2",  
+    "description": "Store numero 2",   
+    "address": "Via Umberto I, 75",   
+    "lat": "38.885765", 
+    "long": "-25.545442",
+    "opening_hours": "7:00-21:00" 
+    }
+]
